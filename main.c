@@ -1,5 +1,6 @@
 main () {
 	big();
 	fact();
+	add();
 }
 
